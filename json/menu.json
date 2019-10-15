@@ -1,0 +1,54 @@
+[
+  {
+    "item":"Nessy Burger",
+    "cost": "$7.95"
+  },
+  {
+    "item":"Turkey Burger",
+    "cost": "$7.95"
+  },
+  {
+    "item":"Top Sirloin Steak Sandwich",
+    "cost": "$9.95"
+  },
+  {
+    "item":"Chicken Breast Sandwich",
+    "cost": "$7.95"
+  },
+  {
+    "item":"Nessy Polish Dog",
+    "cost":"$6.45"
+  },
+  {
+    "item":"Ham & Egg Sandwich",
+    "cost":"$6.25"
+  },
+  {
+    "item":"Jumbo Dog",
+    "cost":"$5.25"
+  },
+  {
+    "item":"Nessy Dog",
+    "cost":"$5.25"
+  },
+  {
+    "item":"Egg & Cheese",
+    "cost":"$4.75"
+  },
+  {
+    "item":"Nachos & Cheese",
+    "cost":"$4.75"
+  },
+  {
+    "item":"Nachos with Chili",
+    "cost":"$6.50"
+  },
+  {
+    "item":"Nessy Fries",
+    "cost":"$3.95"
+  },
+  {
+    "item":"Sodas/Drinks",
+    "cost":"$1.25"
+  }
+]
